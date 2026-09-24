@@ -1,29 +1,28 @@
-<div align="center">
-  <h1>Exercícios Portugol</h1>
-  <p>Coleção de exercícios resolvidos em Portugol (VisualG) para aprendizado de lógica de programação. Material didático para iniciantes.</p>
-  <p><strong>Material educacional para iniciantes em programação.</strong></p>
-</div>
+# Exercícios de Portugol
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Portugol-333333?style=flat-square" /> <img src="https://img.shields.io/badge/VisualG-333333?style=flat-square" />
-</div>
+Exercícios de lógica de programação escritos no Portugol Studio. Os arquivos `.por` estão na pasta [EXERCICIOS](EXERCICIOS/).
 
-<br>
+## Exercícios
 
-## 🚀 Sobre
+| Arquivo | Acesso |
+| --- | --- |
+| EX001.por | [Abrir exercício](EXERCICIOS/EX001.por) |
+| EX002.por | [Abrir exercício](EXERCICIOS/EX002.por) |
+| EX003.por | [Abrir exercício](EXERCICIOS/EX003.por) |
+| EX004.por | [Abrir exercício](EXERCICIOS/EX004.por) |
+| EX005.por | [Abrir exercício](EXERCICIOS/EX005.por) |
+| EX006.por | [Abrir exercício](EXERCICIOS/EX006.por) |
 
-Coleção de exercícios resolvidos em Portugol (VisualG) para aprendizado de lógica de programação. Material didático para iniciantes.
+O PDF de enunciados está na raiz do repositório.
 
-**Resultado:** Material educacional para iniciantes em programação.
+## Como usar
 
-## 🛠️ Tecnologias
+1. Baixe o exercício desejado.
+2. Abra o arquivo `.por` no Portugol Studio.
+3. Execute o programa e altere os valores para acompanhar o resultado.
 
-Portugol, VisualG
+[Portfólio de Leonilson Souza](https://mrleorobot.github.io/)
 
-## 📁 Repositório
-
-Parte do portfólio de <a href="https://mrleorobot.github.io">Leonilson Souza</a>.
-
-## 📝 Licença
+## Licença
 
 MIT © Leonilson Souza
